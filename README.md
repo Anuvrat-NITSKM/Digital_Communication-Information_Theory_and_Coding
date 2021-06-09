@@ -14,4 +14,4 @@ Resources for Digital Communication & Information Theory and Coding
   - [Information Theory and Coding by Prof. S.N.Merchant - IIT Bombay](https://freevideolectures.com/course/3052/information-theory-and-coding)
   
 - Books
-  - []()
+  - Information Theory, Coding and Cryptography by Ranjan Bose
