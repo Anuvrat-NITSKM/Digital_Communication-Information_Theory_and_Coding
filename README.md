@@ -1,5 +1,4 @@
 # Digital_Communication-Information_Theory_and_Coding
-![thumbnail](thumbnail.jpg)
 Resources for Digital Communication & Information Theory and Coding
 
 - Notes
